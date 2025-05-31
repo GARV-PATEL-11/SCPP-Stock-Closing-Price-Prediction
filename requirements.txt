@@ -1,0 +1,11 @@
+plotly
+numpy
+seaborn
+matplotlib
+optuna
+pandas
+torch
+pytorch-lightning
+scikit-learn
+yfinance
+pytz
